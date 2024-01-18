@@ -1,6 +1,6 @@
 # ASL Action Detector
 
-The objective on this project was to get a feel for image recognition and deep learning/neural network concepts with the use sign language. Essentially what the program does is take real-time video predicting whether I am trying to sign:
+The objective of this project was to get a feel for image recognition and deep learning/neural network concepts with American Sign Language. Essentially what the program does is it takes real-time video and makes predictions from the following of what I'm really trying to sign:
 - "Hello"
 - "Thank You"
 - "I Love You"
