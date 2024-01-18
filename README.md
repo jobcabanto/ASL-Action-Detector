@@ -16,4 +16,4 @@ Tools/Technologies Used:
 
 This project was completed with Nicholas Renotte's YouTube Tutorial: https://www.youtube.com/watch?v=doDUihpj6ro&list=LL&index=2&t=3964s
 
-![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/Figure_1.png)
+![alt text](https://github.com/jobcabanto/ASL-Action-Detector/blob/main/res/asl_visual.png)
