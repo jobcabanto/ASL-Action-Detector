@@ -14,6 +14,7 @@ Tools/Technologies Used:
 - OpenCV
 - MediaPipe
 
-This project was completed with Nicholas Renotte's YouTube Tutorial: https://www.youtube.com/watch?v=doDUihpj6ro&list=LL&index=2&t=3964s
+This project was completed with Nicholas Renotte's YouTube Tutorial: 
+https://www.youtube.com/watch?v=doDUihpj6ro&list=LL&index=2&t=3964s
 
 ![alt text](https://github.com/jobcabanto/ASL-Action-Detector/blob/main/res/asl_visual2.png)
